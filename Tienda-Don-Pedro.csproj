@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</TargetFramework>
+        <TargetFramework>net.9.0</TargetFramework>
+        <ImplicitUsing>enable</ImplicitUsing>
+        <Nuellable>enable</Nuellable>
+    <PropertyGroup>
+<Project>
